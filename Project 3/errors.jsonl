@@ -1,0 +1,2 @@
+{"row": 2, "errors": ["Invalid age"]}
+{"row": 3, "errors": ["Age out of range", "Negative income"]}
